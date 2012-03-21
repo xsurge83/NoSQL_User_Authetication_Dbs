@@ -1,0 +1,10 @@
+Examples of None SQL databases for user data storage and authentication functionality: 
+
+TODO: 
+- RavenDB
+- MongoDB
+- Redis 
+- Authentication module. 
+	C#,
+	
+Please fork if you would like to contribute. 	
