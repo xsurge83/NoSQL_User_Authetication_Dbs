@@ -6,5 +6,6 @@ TODO:
 - Redis 
 - Authentication module. 
 	C#,
+- Dynamically extendable user data. 
 	
 Please fork and submit a pull request if you would like to contribute. 	
